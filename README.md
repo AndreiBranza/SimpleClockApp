@@ -1,6 +1,7 @@
 # SimpleClockApp
 
-The purpose of this app was to create a very simple app and try to use the concepts learned so far.
+The purpose of this app was to create a very simple app and try to apply OOP as much as possible. With this in mind, I created as many methods as I could and what classes I thought to be relevant.
+
 Instead of Date or Calendar I have used the LocalTime class from which I can easily extract the hours, minutes and seconds.
 I have tried to separate as much of the code I could; with this in mind I created a another class, Utilitaries, in which I created various static methods that fulfill the following needs:
   setting the look and feel to windows;
